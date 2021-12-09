@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz App 1M</string>
+    <string name="prev_question">Previous Question</string>
+    <string name="next_question">Next Question</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="question_text">Question</string>
+    <string name="next_result">Result</string>
+    <string name="question1">Question1\nInterpreter programs execute high-level language programs without compiling them into machine language first?</string>
+    <string name="question2">Question2\nOutput units make information processed inside the computer available for use outside the computer?</string>
+    <string name="question3">Question3\nThe programs that run on a computer are referred to as hardware?</string>
+    <string name="question4">Question4\nHumans can perform computations as fast as modern computers can?</string>
+</resources>
